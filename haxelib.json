@@ -1,0 +1,11 @@
+{
+  "name": "doc",
+  "version": "0.0.1",
+  "url": "https://github.com/wartman/scaffold",
+  "releasenote": "prerelease",
+  "classPath": "src",
+  "contributors": ["wartman"],
+  "dependencies": {},
+  "description": "Filesystem tools for Haxe.",
+  "license": "Public"
+}

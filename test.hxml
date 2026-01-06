@@ -1,0 +1,12 @@
+-cp src
+-cp test
+
+-lib hxnodejs
+-lib utest
+-lib tink_core
+-lib tink_extensions
+
+-main Run
+
+-js dist/test.js
+-cmd node dist/test
