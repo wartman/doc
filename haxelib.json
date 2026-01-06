@@ -1,7 +1,7 @@
 {
   "name": "doc",
   "version": "0.0.1",
-  "url": "https://github.com/wartman/scaffold",
+  "url": "https://github.com/wartman/doc",
   "releasenote": "prerelease",
   "classPath": "src",
   "contributors": ["wartman"],
