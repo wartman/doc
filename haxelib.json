@@ -5,7 +5,10 @@
   "releasenote": "prerelease",
   "classPath": "src",
   "contributors": ["wartman"],
-  "dependencies": {},
+  "dependencies": {
+    "tink_core": "2.1.1",
+    "tink_extensions": "0.0.1"
+  },
   "description": "Filesystem tools for Haxe.",
   "license": "Public"
 }
